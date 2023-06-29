@@ -9,6 +9,8 @@ const Sidebar = () => {
          src="/assets/img/logo.svg"
          alt="Imagen logotipo"
         />
+
+        
     </>
   )
 }
