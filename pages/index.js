@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <Layout
-      pagina={"Home"}
+      pagina={"Titulo"}
     >
       <h1>Inicio</h1>
     </Layout>
