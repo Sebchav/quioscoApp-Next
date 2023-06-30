@@ -9,14 +9,14 @@ const Sidebar = () => {
   return (
     <>
         <Image
-         width={300}
+         width={120}
          height={100}
          src="/assets/img/logo.svg"
          alt="Imagen logotipo"
         />
 
         <nav className="mt-10">
-          {categorias.map(categoria => (
+          {categorias?.map(categoria => (
             <Categoria 
               key={categoria.id}
               categoria={categoria}
