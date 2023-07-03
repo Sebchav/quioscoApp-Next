@@ -32,7 +32,7 @@ export default function Layout({children, pagina}) {
         </Head> 
 
         <div className="md:flex contenido"> 
-            <aside className="md:w-4/12 xl:w-1/4 2xl:w-1/5">
+            <aside className="md:w-4/12 xl:w-1/4 2xl:w-1/5 ">
                 <Sidebar />
             </aside>
 
