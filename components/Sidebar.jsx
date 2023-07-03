@@ -13,6 +13,7 @@ const Sidebar = () => {
          height={100}
          src="/assets/img/logo.svg"
          alt="Imagen logotipo"
+         className="m-auto mt-5"
         />
 
         <nav className="mt-10">
